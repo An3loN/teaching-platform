@@ -1,1 +1,1 @@
-"# teaching-platform" 
+# teaching-platform
