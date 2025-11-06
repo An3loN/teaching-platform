@@ -1,0 +1,10 @@
+gin:
+  - name: app
+    port: 8995
+    enabled: true
+    commonService:
+      enabled: true
+    sw:
+      enabled: true
+    docs:
+      enabled: true
